@@ -1,5 +1,5 @@
 ###  Hi 👋, Its Navaneeth here
-
+Love to Apply things in Real World !
 
 
 <h3 align="left">Connect with me:</h3>
@@ -8,6 +8,7 @@
 <a href="https://medium.com/@navaneethsharma2310oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navaneethsharma2310oct" height="30" width="40" /></a>
 </p>
 
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navaneeth-sharma&" alt="navaneeth-sharma" /></p>
 
