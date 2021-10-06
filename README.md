@@ -1,7 +1,7 @@
 ###  Hi 👋, Its Navaneeth here
 
 Love to Apply things in Real World !
-I am a final year student with some research experience and have worked as a python developer 
+I am a final year student with some research experience, Medium/Analytics Vidhya Writer and have worked as a python developer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
