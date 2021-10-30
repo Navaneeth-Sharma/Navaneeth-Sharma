@@ -6,7 +6,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navaneeth-sharma-9983561a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navaneeth-sharma-9983561a9" height="30" width="40" /></a>
-<a href="https://medium.com/@navaneethsharma2310oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navaneethsharma2310oct" height="30" width="40" /></a>
+<a href="https://navaneethsharma.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navaneethsharma2310oct" height="30" width="40" /></a>
 </p>
 
 <br>
