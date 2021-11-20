@@ -22,7 +22,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
   
 </p> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter%20notebook)] -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter%20notebook,html)](https://github.com/navaneeth-sharma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter%20notebook)](https://github.com/navaneeth-sharma/github-readme-stats)
 
 <!--**Navaneeth-Sharma/Navaneeth-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
