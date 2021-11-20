@@ -21,7 +21,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&show_icons=true&locale=en" width="55%" alt="navaneeth-sharma" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=navaneeth-sharma&show_icons=true&locale=en&layout=compact" alt="navaneeth-sharma" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=ipynb,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--**Navaneeth-Sharma/Navaneeth-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
