@@ -22,9 +22,11 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
   
 </p> -->
 
-<p>
-  ![https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true](Navaneeth's GitHub stats)
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true" alt="navaneeth-sharma" /></p>
+
+<!-- <p>
+  ![Navaneeth's ](https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true)
+</p> -->
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter%20notebook)] -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&langs_count=8&hide=jupyter%20notebook)](https://github.com/navaneeth-sharma/github-readme-stats) -->
