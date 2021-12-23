@@ -29,7 +29,9 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 </p> -->
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter%20notebook)]
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter%20notebook)] -->
+[![Navaneeth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=navaneeth-sharma)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&langs_count=8&hide=jupyter%20notebook)](https://github.com/navaneeth-sharma/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
