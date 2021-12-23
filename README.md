@@ -23,7 +23,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 </p> -->
 
 <p>
-  ![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true)
+  ![https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true](Navaneeth's GitHub stats)
 </p>
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-sharma&hide=jupyter%20notebook)] -->
