@@ -33,7 +33,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
   
 </p> -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true" alt="navaneeth-sharma" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true" alt="navaneeth-sharma" /></p> -->
 
 <!-- <p>
   ![Navaneeth's ](https://github-readme-stats.vercel.app/api?username=navaneeth-sharma&theme=gruvbox&show_icons=true)
