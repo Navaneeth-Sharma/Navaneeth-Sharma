@@ -22,7 +22,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?navaneeth-sharma=vn7n24fzkq&theme=vue)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?navaneeth-sharma=vn7n24fzkq&theme=vue) -->
 
 
 
