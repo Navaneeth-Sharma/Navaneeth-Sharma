@@ -14,7 +14,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navaneeth-sharma&" alt="navaneeth-sharma" /></p>
 
 
-![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)
+![](https://raw.githubusercontent.com/rishikagupta2468/navaneeth-sharma/main/profile-summary-card-output/monokai/0-profile-details.svg)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
