@@ -3,6 +3,7 @@
 Love to Apply things in Real World !!
 I am a final year student with some research experience, Medium/Analytics Vidhya Writer and have worked as a python developer.
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navaneeth-sharma-9983561a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navaneeth-sharma-9983561a9" height="30" width="40" /></a>
