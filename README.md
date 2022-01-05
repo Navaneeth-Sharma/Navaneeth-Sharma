@@ -5,10 +5,11 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 
 - 🔭 I’m currently working on Machine Learning | Devops projects 
 - 🌱 I’m currently learning Devops 
+- - 📫 How to reach me: ...
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
