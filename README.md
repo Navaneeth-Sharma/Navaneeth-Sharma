@@ -29,7 +29,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Navaneeth-Sharma&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-[![](https://github.com/Navaneeth-Sharma/Navaneeth-Sharma/blob/output/github-contribution-grid-snake.gif)]()
+[![](https://github.com/Navaneeth-Sharma/Navaneeth-Sharma/blob/output/github-contribution-grid-snake.svg)]()
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?navaneeth-sharma=vn7n24fzkq&theme=vue) -->
 
