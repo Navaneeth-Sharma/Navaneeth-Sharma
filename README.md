@@ -3,8 +3,8 @@
 Love to Apply things in Real World !
 I am a final year student with some research experience, Medium/Analytics Vidhya Writer and have worked as a python developer.
 
-- 🔭 I’m currently working on Machine Learning | Devops projects 
-- 🌱 I’m currently learning Devops 
+- 🔭 I’m currently working on Julia Programming | Machine Learning | Devops projects 
+- 🌱 I’m currently learning Julia | Devops 
 - 📫 How to reach me:  <a href="https://linkedin.com/in/navaneeth-sharma-9983561a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navaneeth-sharma-9983561a9" height="15" width="15" /></a>
 <a href="https://navaneethsharma.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navaneethsharma2310oct" height="15" width="15" /></a>
 <!-- - 👯 I’m looking to collaborate on  -->
