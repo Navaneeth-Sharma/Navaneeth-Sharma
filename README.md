@@ -28,7 +28,7 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navaneeth-sharma&theme=monokai)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navaneeth-sharma&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Navaneeth-Sharma&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
