@@ -21,13 +21,11 @@ I am a final year student with some research experience, Medium/Analytics Vidhya
 
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navaneeth-sharma&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navaneeth-sharma&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navaneeth-sharma&theme=monokai)
+[![](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navaneeth-sharma&theme=monokai)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Navaneeth-Sharma&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
