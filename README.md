@@ -15,7 +15,6 @@ ML Engineer | Python Dev | Love to Contribute (Reach out me if you want me to co
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<!-- <h3 align="left">Connect with me:</h3> -->
 
 <br>
 
