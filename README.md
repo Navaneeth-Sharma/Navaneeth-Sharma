@@ -21,13 +21,16 @@ ML Engineer | Python Dev | Love to Contribute (Reach out me if you want me to co
 
 <br>
 
-[![Profile Details](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Repositories per language](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Summary](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github.com/Navaneeth-Sharma/Navaneeth-Sharma/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+<!-- [![Profile Details](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<!-- [![Repositories per language](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
+[![Summary](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Navaneeth-Sharma&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- [![](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 <!-- [![](https://raw.githubusercontent.com/Navaneeth-Sharma/Navaneeth-Sharma/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Navaneeth-Sharma&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 [![Snake contribution](https://github.com/Navaneeth-Sharma/Navaneeth-Sharma/blob/output/github-contribution-grid-snake.svg)]()
 
