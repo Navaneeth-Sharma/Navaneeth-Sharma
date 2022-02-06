@@ -17,6 +17,7 @@ ML Engineer | Python Dev | Love to Contribute (Reach out me if you want me to co
 <!-- - ⚡ Fun fact: ... -->
 
 
+
 ### Languages and Tools
 
 #### Languages 
@@ -28,7 +29,8 @@ AI and ML  |   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.
 DevOps  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> | 
 Databases | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> |
 Webdev | <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="postgresql" width="65" height="40"/> <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="postgresql" width="65" height="40"/> |
-Python Frameworks |  Pandas, Numpy, Matplotlib, Seaborn, Scrapy , Bsoup,  |
+Python Frameworks |  Pandas, Numpy, Matplotlib, Seaborn, Scrapy , Bsoup,   |
+
 
 
 
