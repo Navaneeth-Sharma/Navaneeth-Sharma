@@ -5,7 +5,7 @@ MLE | Python Dev | Love to Contribute (Reach out me if you want me to collaborat
 
 
 - 🔭 I’m currently working on Julia Programming | Machine Learning | Devops projects
-- 🌱 I’m currently learning Julia | Devops 
+- 🌱 I’m currently learning Julia | Deep Learning | Devops 
 - 📫 How to reach me:  <a href="https://linkedin.com/in/navaneeth-sharma-9983561a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navaneeth-sharma-9983561a9" height="15" width="15" /></a>
 <a href="https://navaneethsharma.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navaneethsharma2310oct" height="15" width="15" /></a>
 
