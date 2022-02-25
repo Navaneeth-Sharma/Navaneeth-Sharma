@@ -1,7 +1,8 @@
 # Hello there 👋 It's Navaneeth here
 
-Love to Apply things in Real World !
+Love to Apply things in Real World !!
 MLE | Python Dev | Love to Contribute (Reach out me if you want me to collaborate!)
+
 
 
 - 🔭 I’m currently working on Julia Programming | Machine Learning | Devops projects
