@@ -3,7 +3,7 @@
 Simple Developer with Full stack skills who  
 - respects clean code, good documentation and simplicity
 - working on React , Djnago , Alpine.js, Tailwind
-- learning advanced react, chakra ui , advanced djnago and design principles
+- learning advanced Python, djnago, react and design principles
 
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
