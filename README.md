@@ -2,8 +2,8 @@
 
 Simple Developer with Full stack skills who  
 - respects clean code, good documentation and simplicity
-- working on React , Djnago , Alpine.js, Tailwind
-- learning advanced Python, djnago, react and design principles
+- working on Vue.js , Djnago , Alpine.js, Tailwind, UI/UX, Figma Designs
+- learning advanced Python, djnago, ML and design principles
 
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
