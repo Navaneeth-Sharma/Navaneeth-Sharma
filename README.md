@@ -1,10 +1,4 @@
-# Hello there 👋 It's Navaneeth here
 
-Simple Developer with Full stack skills who  
-- respects clean code, good documentation and simplicity
-- working on Vue.js , Fastapi, Djnago , Alpine.js, Tailwind, UI/UX, Figma Designs
-- learning advanced Python, Rust, Deep Learning and design principles
-- into Transformers, Diffusion, LLMs and much more 
 
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
